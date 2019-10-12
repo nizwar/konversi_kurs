@@ -2,7 +2,7 @@
 Projek php native sederhana untuk melakukan konversi mata uang dengan mengscraping situs Bank Indonesia sebagai acuan nilai matauangnya.
 
 ## Scrapping dan Pengambilan Data
-Untuk akurasi perhitungan nilai mata uang, projek ini mengambil data melalui situs [Bank Indonesia](https://www.bi.go.id/), Scrapping dan pengambilan data pada projek ini menggunakan [simple_http_connection](https://simplehtmldom.sourceforge.io)
+Untuk akurasi perhitungan nilai mata uang, projek ini mengambil data melalui situs [Bank Indonesia](https://www.bi.go.id/), Scrapping dan pengambilan data pada projek ini menggunakan [simple_html_dom](https://simplehtmldom.sourceforge.io)
 
 ## Tentang Saya 
 <p align="center">
