@@ -28,7 +28,8 @@ class NizwarKurs
         }
         $arrOutput = array();
         foreach ($arrNilaiKurs as $key => $val) {
-            $arrOutput[$key] = [
+            $arrOutput[] = [
+                "kode" => $key,
                 "name" => $arrKepanjangan[$key] ?? "Tidak Dimengerti",
                 "val" => $val,
             ];
